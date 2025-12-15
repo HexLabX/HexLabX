@@ -9,9 +9,6 @@
 
 ## 🤝 Connect with me:
 <div align="left">
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/WeCha1t-07C160?style=for-the-badge&logo=wechat&logoColor=white alt="WeChat" style="margin-bottom: 5px;" />
-</a>
 <a href="mailto:yshiliu@126.com" target="_blank">
 <img src=https://img.shields.io/badge/mail-EAF1FB?style=for-the-badge&logo=mail&logoColor=EA4335 alt=gmail style="margin-bottom: 5px;" />
 </a>
