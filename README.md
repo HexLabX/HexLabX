@@ -30,11 +30,10 @@
 </div>
 
 ## 🤺 About me
-- <img alt="GIF" src="gifs/Developer.gif" width="25" /> &nbsp; I’m currently learning **[Design Pattern](https://github.com/yizhishiliu/DesignPattern)** & **[AIGC](https://github.com/yizhishiliu/aigcTest)**.<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="gifs/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;&nbsp;Be elegant and with nice personality.<br>
-- <img src="gifs/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **program developing, experience, or anything**.<br>
-- <img src="gifs/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **WeChat**: **<a href="https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg" target="_blank">_yshiliu**.<br>
-- &nbsp;&nbsp;<img src="gifs/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**Don’t let the past steal your present.**<br>
+🌟天行健，君子以自强不息 
+💻00后全栈开发者，擅长各种软件开发工作 
+👉随时随地都可以在线接单 
+🌍商业需求+V：Hex8306（程序员Hex）
 
 ## 🛠️ My Skill Set  
 <table><tr><td valign="top" width="33%">
